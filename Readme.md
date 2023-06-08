@@ -29,3 +29,5 @@ Install my-project with npm
 
 
 Check it out  [Here](https://ut-speech-to-text-app.vercel.app/) 
+
+Also check out my Text to Speech App :  [Click](https://github.com/utk145/Learning-Phase-Projects-HTML-CSS-JS/tree/main/basic%20proj%205%20text%20to%20speech%20js) 
